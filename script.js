@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com armas nucleares, qual seu primeiro pensamento?",
+        enunciado: "Assim que saiu da escola você se depara com duas escolhas de futuro. O que pode ser sua escolha?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "afirmacao"
+                texto: "Faculdade!",
+                afirmacao: "Você confia no potencial dos estudos e o que isso agregará no futuro. Com formação, você terá mais oportunidades no mercado de trabalho."
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "afirmacao"
+                texto: "Trabalho!",
+                afirmacao: "É uma boa escolha, é interessante pensar no financeiro, principalmente da família. Vocẽ pode se especializar depois!"
             }           
             
         ]
