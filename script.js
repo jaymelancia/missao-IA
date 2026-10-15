@@ -20,56 +20,56 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial (IA), uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre elaIA. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de tecnologia em sala de aula. Qual atitude você toma?",
+        enunciado: "Se você pretende cursar faculdade, já sabe qual área escolherá? Se pretende Trabalhar, já fez algum curso?",
         alternativas: [
             {
-                texto:"Utilizar uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento",
-                afirmacao:"afirmacao"
+                texto:"Sim, já sei qual faculdade quero cursar.",
+                afirmacao:"Excelente, se conhecer é essencial! Mas pense, se você não se localizar dentro do curso depois, sempre dá pra mudar!"
             },
             {
-                texto: "Escrever o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao:"afirmacao"
+                texto: "Sim, já fiz um curso.",
+                afirmacao:"Que ótimo, assim você pode ter mais ioportunidades e um trabalho mais valorizado!"
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "Em relação ao seu futuro, você sente que ele será promissor?",
         alternativas: [
             {
-                texto:"Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao:"afirmacao"
+                texto:"Sim, estou confiante que passarei no vestibular!",
+                afirmacao:"Que bom! Isso significa que você se esforçou bastante!"
             },
             {
-                texto:"Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao:"afirmacao"
-            }
-            
-        ]
-    },
-    {
-        enunciado: "Ao final da discussão, você precisou criar uma imagem no computador que representasse o que pensa sobre IA. E agora?",
-        alternativas: [
-            {
-                texto:"Criar uma imagem utilizando uma plataforma de design como o Paint.",
-                afirmacao:"afirmacao"
-            },
-            {
-                texto:"Criar uma imagem utilizando um gerador de imagem de IA.",
-                afirmacao:"afirmacao"
+                texto:"Sim, estou confiante que encontrarei um novo emprego logo!",
+                afirmacao:"Que bom! Isso demonstra que você confia em si mesmo e é essencial para a vida."
             }
             
         ]
     },
     {
-        enunciado: " Você tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento do trabalho está um pouco atrasado e uma pessoa do seu grupo decidiu fazer com ajuda de uma IA. O problema é que o trabalho está totalmente igual ao do chat. O que você faz?",
+        enunciado: "Você já planeja o que vai fazer depois da faculdade ou do primeiro emprego?",
         alternativas: [
             {
-                texto: "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda máquina erra, por isso revisar o trabalho e contribuir com as perspectivas pessoais é essencial.",
-                afirmacao:"afirmacao"
+                texto:"Sim, desejo trabalhar na área de atuação da minha faculdade.",
+                afirmacao:"Incrível! Você terá muito sucesso."
             },
             {
-                texto: "Escrever comandos para o chat é uma forma de contribuir com o trabalho, por isso não é um problema utilizar o texto inteiro.",
-                afirmacao:"afirmacao"
+                texto:"Sim, desejo trabalhar em um emprego num lugar maior e com melhores condições.",
+                afirmacao:"Ótimo, está no caminho certo!"
+            }
+            
+        ]
+    },
+    {
+        enunciado: "Você está pronto(a) para finalizar o ensino médio?",
+        alternativas: [
+            {
+                texto: "Sim!",
+                afirmacao:"Parabéns! Aproveite os últimos momentos no ensino médio!"
+            },
+            {
+                texto: "Não.",
+                afirmacao:"Poxa, o que te faz estar assim? Mas não tem problema, é normal não estar pronto. Aproveite os últimos momentos no ensino médio!"
             }
             
             
